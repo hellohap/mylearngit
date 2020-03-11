@@ -55,7 +55,7 @@
 # 			min = i
 # 		if(i > max):
 # 			max = i
-# 	return min,max
+# 	return min,maxxxx
 
 
 # print(findMinAndMax([1,2,3,4,5]))
